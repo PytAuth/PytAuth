@@ -7,7 +7,7 @@
 - **Языки программирования:**
   - JavaScript
   - Python
-  - C
+  - C++
   - C#
   - Dart
 
