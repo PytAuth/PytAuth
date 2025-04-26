@@ -18,6 +18,4 @@
 - **Учу:**
   - Vue
   - Go
-## 📫 Как со мной связаться
 
-- [Discord] abstract.method2
